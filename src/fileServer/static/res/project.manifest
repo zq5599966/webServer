@@ -1,0 +1,26 @@
+{
+    "packageUrl" : "http://192.168.199.226:8080/static/res",
+    "remoteManifestUrl" : "http://192.168.199.226:8080/static/res/project.manifest",
+    "remoteVersionUrl" : "http://192.168.199.226:8080/static/res/version.manifest",
+    "version" : "1.0.0",
+    "groupVersions" : {
+        "1" : "1.0.1"
+    },
+    "engineVersion" : "3.10 rc0",
+    "assets" : {
+        "update1" : {
+            "path" : "src/version_src_1.0.1.zip",
+            "md5" : "f6bf54e5a0d42c963cc5ae81bf9dc6c6",
+            "compressed" : true,
+            "group" : "1"
+        },
+        "update2" : {
+             "path" : "res/version_res_1.0.1.zip",
+             "md5" : "f6bf54e5a0d42c963cc5ae81bf9dc6c6",
+             "compressed" : true,
+             "group" : "1"
+        }
+    },
+    "searchPaths" : [
+    ]
+}
